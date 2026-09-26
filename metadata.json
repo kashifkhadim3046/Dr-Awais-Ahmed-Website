@@ -1,0 +1,6 @@
+{
+  "name": "Dr. Awais Ahmad | Neuro Electrophysiologist",
+  "description": "Official website of Dr. Awais Ahmad, Neuro Electrophysiologist. Explore neurophysiology services, neurological assessment, appointment information, and patient resources.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
